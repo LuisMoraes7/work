@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.datas{
+    
+    margin: 10px;
+    border: 1px solid black;
+    text-align: center;
+    & #info, #pagamentosInfo{
+        border: 1px solid blue;
+    }
+}
